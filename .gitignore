@@ -1,0 +1,15 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+/main.js
+/main.js.map
+/main.d.ts
+/main.d.ts.map
+
+# Environment variables
+.env
+
+# Generated report
+report.pdf
